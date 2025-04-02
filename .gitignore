@@ -1,3 +1,8 @@
 env
 __pycache__/
 bin/
+db/
+.private/
+
+# .env is used to store environment variables
+.env
