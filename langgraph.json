@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "MultiFinX": "agents/groups.py:main_graph"
+    },
+    "env": ".env"
+}

@@ -4,4 +4,10 @@ MultiFinX is a multi-agent expert system designed for financial analysis and mar
 
 ---
 
-_Xin vui lòng đợi phiên bản mới nhất!_
+_The project is currently under development. The code is not yet fully functional and is intended for demonstration purposes only._
+
+---
+
+## News
+
+- **01-04-2024**: The simple version of the MultiFinX system is now available! Please wait for the full version, which will include more advanced features and capabilities.
